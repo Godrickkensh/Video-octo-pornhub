@@ -90,9 +90,9 @@
 
 
 
-<h3>Venocyber-MD Stats</h3>
+<h3>Godrick-MD Stats</h3>
 
-![Venocyber-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=kingjux&repo=venocyber-md&show_owner=true&theme=dark)
+![Godrick-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=kingjux&repo=venocyber-md&show_owner=true&theme=dark)
 
 
     
@@ -129,7 +129,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
 ### I Am
-- [Venocyber Tech](https://github.com/kingjux) 
+ Tech](https://github.com/kingjux) 
 
 # please click the following button  and  fill the details to support my project
 
@@ -206,7 +206,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+venocyber;Admin🥰)](https://github.com/Kingjux)
+[![ tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+venocyber;Admin🥰)](https://github.com/Kingjux)
 
 <p align="center">
   <a href="https://github.com/Kingjux/Venocyber-md">
